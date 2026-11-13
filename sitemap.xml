@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Note: URL fragments (#gallery, #about) were removed. Google treats
+     https://site.com/#gallery as the same page as https://site.com/ and
+     ignores the fragment, so listing them added nothing and diluted the file. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.bobobakers.com/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.bobobakers.com/og-image.jpg</image:loc>
+      <image:title>Bobo Baker's - Custom Cakes in Lahore</image:title>
+    </image:image>
+  </url>
+</urlset>
