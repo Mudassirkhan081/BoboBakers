@@ -1,3 +1,4 @@
+# NOTE: crawlers only read robots.txt from a domain root. Active once a custom domain is connected.
 User-agent: *
 Allow: /
 Disallow: /admin/
@@ -11,4 +12,4 @@ Disallow: /README.md
 User-agent: Googlebot-Image
 Allow: /
 
-Sitemap: https://www.bobobakers.com/sitemap.xml
+Sitemap: https://mudassirkhan081.github.io/BoboBakers/sitemap.xml
